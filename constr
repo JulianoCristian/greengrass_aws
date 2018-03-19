@@ -1,0 +1,17 @@
+AWS Mini Fulfillment Center Construction
+Welcome to the AWS Mini Fulfillment Construction Documentation.
+
+Construction Instructions
+Overall the process is:
+
+acquire parts from the Bill of Materials
+print 3D parts
+assemble each arm
+assemble control box
+assemble conveyor
+follow software installation
+push green button
+The Arm
+The quickest way to assemble the various parts that form a complete robot arm is to assemble them in four separate sections and combine them at the intersection points. The arm's four main sections are in this image:
+
+four main parts
